@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Mark</h2>
-<h3 align="center">Passionate about AI engineering, Agents and Research!</h3>
+<h2 Passionate about AI engineering, Agents and Research!</h2>
 
 In my free time trying to work on my Github repo ["AI Kitchen"](https://github.com/mvervuurt/aikitchen) where I share code, papers and other interesting resources related to AI Agents.
 

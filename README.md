@@ -2,7 +2,7 @@
 
 My Github repo ["AI Kitchen"](https://github.com/mvervuurt/aikitchen) where I share code, papers and other interesting resources.
 
-<img src="aikitchen/main/assets/images/IMG_5996.PNG" align="left" hspace="20" height="300" width="250">
+<img src="/../../../../github/docs/blob/aikitchen/main/assets/images/IMG_5996.PNG" align="left" hspace="20" height="300" width="250">
 
 
 </br>

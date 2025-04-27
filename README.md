@@ -1,6 +1,6 @@
 <h2> Passionate about AI Engineering, Agents and Research!</h2>
 
-In my free time working on my Github repo ["AI Kitchen"](https://github.com/mvervuurt/aikitchen) where I share code, papers and other interesting resources.
+My Github repo ["AI Kitchen"](https://github.com/mvervuurt/aikitchen) where I share code, papers and other interesting resources.
 
 </br>
 <h5 align="left">Languages and Tools:</h5>

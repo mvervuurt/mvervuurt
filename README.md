@@ -1,4 +1,4 @@
-<h2> Passionate about AI Agents and Research!</h2>
+<h2> Passionate about AI Engineering, Agents and Research!</h2>
 
 In my free time working on my Github repo ["AI Kitchen"](https://github.com/mvervuurt/aikitchen) where I share code, papers and other interesting resources about AI Agents.
 
